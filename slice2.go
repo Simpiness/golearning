@@ -22,4 +22,5 @@ func main() {
 	fmt.Println(s1, len(s1), cap(s1))
 	fmt.Println(s2, len(s1), cap(s1))
 	//同步比较s3[0]和s1[0]就可知道是否为原始数组
+
 }
